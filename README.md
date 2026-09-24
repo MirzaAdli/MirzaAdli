@@ -1,4 +1,4 @@
-## Mirza Adliansyah Pratama - AmIrZ 👋
+## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
 
 <!--
 **MirzaAdli/MirzaAdli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
