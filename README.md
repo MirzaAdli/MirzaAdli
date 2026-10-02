@@ -1,11 +1,3 @@
-<!-- Banner Header Gelombang -->
-<img src="https://vercel.app" width="100%" />
-
-<!-- Teks Efek Mengetik Otomatis -->
-<div align="center">
-  <img src="https://demolab.com+🤫🧏‍♂️;Badge+Hunter+on+GitHub+🚀;Tech+Enthusiast;Learning+Every+Single+Day+🌱" alt="Typing SVG" />
-</div>
-
 ## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
 
 <!--
