@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://vercel.app" alt="AmIrZ's GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="AmIrZ's Streak Stats" width="48%" />
+  <img src="https://vercel.app" alt="AmIrZ's Streak Stats" width="48%" />
 </p>
 
 <!--
