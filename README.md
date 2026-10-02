@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://demolab.com" alt="Hangmoon City" width="100%" />
 </p>
 
 ## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
