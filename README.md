@@ -1,6 +1,6 @@
 ## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MirzaAdli&theme=monokai&locale=id&timezone=UTC%2B7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MirzaAdli&theme=monokai&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <!--
 **MirzaAdli/MirzaAdli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
