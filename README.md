@@ -1,4 +1,12 @@
-## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
+<!-- Banner Header Gelombang -->
+<img src="https://vercel.app" width="100%" />
+
+<!-- Teks Efek Mengetik Otomatis -->
+<div align="center">
+  <img src="https://demolab.com+🤫🧏‍♂️;Badge+Hunter+on+GitHub+🚀;Tech+Enthusiast;Learning+Every+Single+Day+🌱" alt="Typing SVG" />
+</div>
+
+Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
 
 <!--
 **MirzaAdli/MirzaAdli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
