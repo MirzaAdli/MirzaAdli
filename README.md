@@ -1,5 +1,10 @@
 ## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
 
+<p align="center">
+  <img src="https://vercel.app" alt="AmIrZ's GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="AmIrZ's Streak Stats" width="48%" />
+</p>
+
 <!--
 **MirzaAdli/MirzaAdli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
