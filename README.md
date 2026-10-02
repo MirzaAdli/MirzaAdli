@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://demolab.com](https://minimalistic-wallpaper.demolab.com/#hangmoon-city.jpg)" alt="Hangmoon City Banner" width="100%" />
+    <a href="https://git.io/streak-stats"><img src="https://minimalistic-wallpaper.demolab.com/#hangmoon-city.jpg" alt="Hangmoon City" /></a>
 </p>
 
 ## Mirza Adliansyah Pratama - AmIrZ 🤫🧏‍♂️
